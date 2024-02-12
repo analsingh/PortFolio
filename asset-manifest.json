@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c8bb0045.css",
-    "main.js": "/portfolio/static/js/main.e81337b9.js",
+    "main.js": "/portfolio/static/js/main.a127be74.js",
     "static/media/mern_logo.png": "/portfolio/static/media/mern_logo.13340b257946ef51844e.png",
     "static/media/sign.png": "/portfolio/static/media/sign.880cb7af904cb6e0ed9a.png",
     "static/media/dice.png": "/portfolio/static/media/dice.dcfec5f1ff00b7f55ad9.png",
@@ -10,15 +10,14 @@
     "static/media/anl.png": "/portfolio/static/media/anl.784b3e4d8594698ab3b8.png",
     "static/media/DrumKit.png": "/portfolio/static/media/DrumKit.53dd902085d3fbda74cd.png",
     "static/media/Travel.png": "/portfolio/static/media/Travel.13318fc928bb20eb5527.png",
-    "static/media/temp.jpeg": "/portfolio/static/media/temp.ef16648409a0255a2abd.jpeg",
     "static/media/FullStackNotes.png": "/portfolio/static/media/FullStackNotes.836b7cb189b7bfb35e36.png",
     "static/media/react_logo.png": "/portfolio/static/media/react_logo.f3e576ba08e6be927148.png",
     "index.html": "/portfolio/index.html",
     "main.c8bb0045.css.map": "/portfolio/static/css/main.c8bb0045.css.map",
-    "main.e81337b9.js.map": "/portfolio/static/js/main.e81337b9.js.map"
+    "main.a127be74.js.map": "/portfolio/static/js/main.a127be74.js.map"
   },
   "entrypoints": [
     "static/css/main.c8bb0045.css",
-    "static/js/main.e81337b9.js"
+    "static/js/main.a127be74.js"
   ]
 }
